@@ -2,20 +2,20 @@ Hux Blog User Manual
 ====================
 
 * Basics
- 	* [Getting Started](#getting-started)
- 	* [Development](#development)
- 	* [Config](#configs)
- 	* [Posts](#posts)
+  * [Getting Started](#getting-started)
+  * [Development](#development)
+  * [Config](#configs)
+  * [Posts](#posts)
 * Components
- 	* [SideBar](#sidebar)
- 	* [Mini About Me](#mini-about-me)
- 	* [Featured Tags](#featured-tags)
- 	* [Friends](#friends)
- 	* [Keynote Layout](#keynote-layout)
+  * [SideBar](#sidebar)
+  * [Mini About Me](#mini-about-me)
+  * [Featured Tags](#featured-tags)
+  * [Friends](#friends)
+  * [Keynote Layout](#keynote-layout)
 * Misc
- 	* [Comment](#comment)
- 	* [Analytics](#analytics)
- 	* [SEO Title](#seo-title)
+  * [Comment](#comment)
+  * [Analytics](#analytics)
+  * [SEO Title](#seo-title)
 * [FAQ](#faq)
 * [Releases](#releases)
 

@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: xingyi_zhang
+# disqus_username: xingyi_zhang
 
 # Netease settings
 netease_comment: false
