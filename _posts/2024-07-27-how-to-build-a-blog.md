@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "如何快速搭建一个博客"
+comment:    true
 subtitle:   ""
 date:       2024-07-27 16:00:00
 author:     "Yi"
