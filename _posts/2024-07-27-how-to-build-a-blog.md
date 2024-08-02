@@ -3,9 +3,10 @@ layout:     post
 title:      "如何快速搭建一个博客"
 comments:    true
 subtitle:   ""
-date:       2024-07-27 16:00:00
+date:       2024-07-27
 author:     "Yi"
 header-img: "img/post-bg-2015.jpg"
+mathjax:    true
 tags:
     - Life
 ---

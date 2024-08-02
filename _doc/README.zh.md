@@ -111,7 +111,7 @@ tags:
 在引入[Rake](https://github.com/ruby/rake)工具之后，我们可以使用命令：
 
 ```
-rake post title="Hello 2015" subtitle="Hello World, Hello Blog"
+rake post title="DQN改进（一）：Noisy Network" subtitle=""
 ```
 
 来自动生成上面的文章模板。
