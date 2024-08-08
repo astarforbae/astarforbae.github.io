@@ -2,7 +2,6 @@
 @param {string} type - 'page' | 'post' | 'keynote'
 @param {boolean} short
 {% endcomment %}
-
 {% if include.type == 'post' or include.type == 'page' %}
 <style type="text/css">
     header.intro-header {
@@ -54,6 +53,7 @@
         </div>
         {% endif %}
         <div class="container">
+            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
@@ -68,6 +68,8 @@
                         <h2 class="subheading">{{ page.subtitle }}</h2>
                         <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{%
                             endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                        本页面已被访问<span id="busuanzi_value_site_pv"></span>次
+
                     </div>
                 </div>
             </div>
